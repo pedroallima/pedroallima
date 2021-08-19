@@ -11,7 +11,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
